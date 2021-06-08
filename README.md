@@ -46,4 +46,4 @@ This is a simple Gallery Application to display images with labels.
 
 * Swipe to remove item in list
 
-## Have a run at it with the [APK]() here!
+## Have a run at it with the [APK](https://github.com/mitali-1703/Gallery-App/releases/download/latest/app-debug.apk) here!
